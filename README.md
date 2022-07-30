@@ -4,7 +4,7 @@
 
 ## Model training
 
-1. Execute python notebook in notebooks/Model Training.ipynb 
+1. Execute python notebooks in notebooks directory 
 
 ## API deployment that serves the model
 
