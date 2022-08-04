@@ -12,12 +12,10 @@
 
 2. source `.venv/bin/activate (Linux & MacOS)` or `.venv\Scripts\activate (Windows)`
 
-3. pip install --upgrade pip
+3. pip install -r requirements.txt
 
-4. pip install -r requirements.txt
+4. Create main.py file (main.py file already created in repository)
 
-5. Create main.py file (main.py file already created in repository)
+5. uvicorn main:app --reload
 
-6. uvicorn main:app --reload
-
-7. Web application published in http://localhost:8000
+6. Web application published in http://localhost:8000
