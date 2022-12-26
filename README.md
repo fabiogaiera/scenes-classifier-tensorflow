@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Scenes Classifier with TensorFlow
 
 ## The code works with TensorFlow 2.8.0
